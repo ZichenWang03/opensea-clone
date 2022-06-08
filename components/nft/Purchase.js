@@ -16,7 +16,7 @@ const style = {
   modalBody: `relative p-6 flex-auto`,
   modalFooter: `flex items-center justify-end p-6 border-t border-solid border-slate-200 rounded-b`,
 }
-
+//1234
 const MakeOffer = ({ isListed, selectedNft, listings, marketPlaceModule }) => {
   const [selectedMarketNft, setSelectedMarketNft] = useState()
   const [enableButton, setEnableButton] = useState(false)
